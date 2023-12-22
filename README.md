@@ -40,7 +40,7 @@ The segment_example.py file shows an example of image segmentation. The result s
 } -->
 
 ## 📜 License
-This project is released under the AGPL-3.0 license.
+This project is released under the GPL-3.0 license.
 
 ## 📧 Contact
 If you have any questions, please email antonio.galvan@ulpgc.es.
