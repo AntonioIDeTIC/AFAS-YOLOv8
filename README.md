@@ -1,6 +1,6 @@
 # AFAS-YOLOv8
  <p align="justify"> 
-This is the official repository of "Detection of high-voltage structures as a potential source of false alarms in early fire recognition". In this repository, you can find all the annotations discussed in the article, in addition to the images that have been proposed by the team.
+This is the official repository of "Detection of high-voltage structures as a potential source of false alarms in early fire recognition" (under review process). In this repository, you can find all the annotations discussed in the article, in addition to the images that have been proposed by the team.
 </p>
 
 <p align="justify"> 
