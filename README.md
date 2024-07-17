@@ -13,11 +13,11 @@ All the data necessary to replicate our work is available in this repository.
 </p>
 
 ## 🔧 Dependencies and Installation 
-* Python==3.10.8
-* opencv-python-headless==4.8.1.78
-* numpy==1.26.1
-* matplotlib==3.7.2
-* ultralytics==8.0.213
+* Python == 3.10.8
+* opencv-python-headless == 4.8.1.78
+* numpy == 1.26.1
+* matplotlib == 3.7.2
+* ultralytics == 8.0.213
   
 ## 🚀 Code
 <p align="justify">
