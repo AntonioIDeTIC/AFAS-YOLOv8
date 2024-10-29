@@ -1,6 +1,6 @@
 # AFAS-YOLOv8
 <p align="justify"> 
-Welcome to the official repository for "Addressing False Alarms from High-Voltage Structures in Subpixel Fire Detection" (currently under review). This repository contains all necessary resources to replicate the experiments presented in our study.
+Welcome to the official repository for "Addressing False Alarms from High-Voltage Structures in Subpixel Fire Detection" (currently under review). This repository contains all the necessary resources to replicate the experiments presented in our study.
 </p>
 
 <p align="justify"> 
