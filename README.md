@@ -20,7 +20,7 @@ The datasets used in this work include the FLIR ADAS, $M{^3}FD$, and Powerline I
 
 ## 💻 Materials
 <p align="justify">
-Our proposed dataset is available via our Mendeley data repository: <a href="https://data.mendeley.com/datasets/rng8d63pk3/1" target="_blank">AFAS-YOLOv8</a>. Please ensure the "original_data" folder is located within this repository before running the provided examples. Most data is stored in 16-bit format; to use it for training, apply the "normalize" method in utils.py to convert it to 8-bit.
+Our proposed dataset is available via Mendeley data repository: <a href="https://data.mendeley.com/datasets/rng8d63pk3/1" target="_blank">AFAS-YOLOv8</a>. Please ensure the "original_data" folder is located within this repository before running the provided examples. Most data is stored in 16-bit format; to use it for training, apply the "normalize" method in utils.py to convert it to 8-bit.
 </p>
 
 ## 🔧 Dependencies and Installation 
