@@ -1,6 +1,6 @@
 # AFAS-YOLOv8
  <p align="justify"> 
-This is the official repository of "Addressing false alarms from high-voltage structures in subpixel fire detection" (recently submitted). In this repository, you can find all the annotations discussed in the article, in addition to the images that have been proposed by the team.
+This is the official repository of "Addressing false alarms from high-voltage structures in subpixel fire detection" (recently submitted). In this repository, you can find all the resources necessary to replicate our work.
 </p>
 
 <p align="justify"> 
@@ -9,7 +9,7 @@ It should be noted that the FLIR, $M{^3}FD$, and PID images are open access and 
 
 ## 💻 Materials
 <p align="justify">
-All the data necessary to replicate our work is available in this repository. Please visit our Mendeley data repository at <a href="https://data.mendeley.com/datasets/rng8d63pk3/1" target="_blank">AFAS-YOLOv8</a> to download the dataset discussed in our work.
+Please visit our Mendeley data repository at <a href="https://data.mendeley.com/datasets/rng8d63pk3/1" target="_blank">AFAS-YOLOv8</a> to download the dataset discussed in our work. Take into account that the "original_data" folder must be inside this repository to run the examples we provided. 
 </p>
 
 ## 🔧 Dependencies and Installation 
@@ -21,7 +21,7 @@ All the data necessary to replicate our work is available in this repository. Pl
   
 ## 🚀 Code
 <p align="justify">
-The functions developed in this work can be found in the code folder. The utils.py file implements basic functions such as the IoU calculation used in this work, as well as the preprocessing routine. 
+The functions developed in this work can be found in the code folder. The utils.py file implements basic methods such as the IoU calculation used in this work, as well as the preprocessing routine. 
 </p>
 
 <p align="justify">
