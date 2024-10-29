@@ -10,16 +10,15 @@ The datasets used in this work include the FLIR, $M{^3}FD$, and PID image datase
 </p>
 
 ### Terms and Conditions
-<p align="justify"> 
 * FLIR ADAS Dataset: Refer to the <a href="https://www.flir.com/oem/adas/adas-dataset-agree/" target="_blank">FLIR ADAS Terms of Use</a> for conditions on FLIR ADAS data usage.
 * Powerline Image Dataset (PID): The <a href="https://data.mendeley.com/datasets/n6wrv4ry6v/8" target="_blank">Powerline Image Dataset terms</a>  apply to PID usage.
 * TarDAL ($M{^3}FD$) Dataset: Use of the $M{^3}FD$ dataset is subject to the <a href="https://github.com/JinyuanLiu-CV/TarDAL" target="_blank">TarDAL terms</a> .
-</p>
+
 
 
 ## 💻 Materials
 <p align="justify">
-POur primary dataset is available via our Mendeley data repository: <a href="https://data.mendeley.com/datasets/rng8d63pk3/1" target="_blank">AFAS-YOLOv8</a>. Please ensure the "original_data" folder is located within this repository before running the provided examples. Most data is stored in 16-bit format; to use it for training, apply the "normalize" method in utils.py to convert it to 8-bit.
+Our primary dataset is available via our Mendeley data repository: <a href="https://data.mendeley.com/datasets/rng8d63pk3/1" target="_blank">AFAS-YOLOv8</a>. Please ensure the "original_data" folder is located within this repository before running the provided examples. Most data is stored in 16-bit format; to use it for training, apply the "normalize" method in utils.py to convert it to 8-bit.
 </p>
 
 ## 🔧 Dependencies and Installation 
@@ -35,9 +34,9 @@ All functions developed for this project are organized in the code folder. Here�
 
 * utils.py: This script includes essential utility methods, such as the Intersection over Union (IoU) calculation and preprocessing routines.
 * segment_example.py: This example script demonstrates image segmentation. In the resulting segmentation, the color coding is as follows:
-* * Red: Towers
-* * Blue: Powerlines
-* * Green: False Negatives
+    * Red: Towers
+    * Blue: Powerlines
+    * Green: False Negatives
 </p>
 
 
