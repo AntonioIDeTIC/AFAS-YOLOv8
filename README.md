@@ -32,7 +32,7 @@ Our proposed dataset is available via Mendeley data repository: <a href="https:/
   
 ## 🚀 Code Overview
 <p align="justify">
-The augmentation process carried out in this work was possible using <a href="https://docs.roboflow.com/datasets/image-augmentation" target="_blank">Roboflow augmentation tool</a>. 
+The augmentation process carried out in this work was possible using <a href="https://docs.roboflow.com/datasets/image-augmentation" target="_blank">Roboflow augmentation tool</a>. Please, refer to its documentation to replicate the augmented dataset of the paper.
 
 The methods developed for this project are organized in the code folder. Here’s a summary of key files:
 
