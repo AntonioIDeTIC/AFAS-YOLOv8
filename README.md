@@ -4,7 +4,7 @@ Welcome to the official repository for "Addressing False Alarms from High-Voltag
 </p>
 
 <p align="justify"> 
-Note that you will need to train a pre-trained YOLOv8 model to run this code effectively.
+Note that you will need to <a href="https://docs.ultralytics.com/modes/train/" target="_blank">perform training</a> using a pre-trained YOLOv8 model to run this code effectively.
 </p>
 
 ## 📂 Dataset Access and Usage
