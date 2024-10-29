@@ -9,15 +9,18 @@ Note that you will need to <a href="https://docs.ultralytics.com/modes/train/" t
 
 ## 📂 Dataset Access and Usage
 
-<p align="justify"> 
-The datasets used in this work include the FLIR ADAS, $M{^3}FD$, and Powerline Image Dataset (PID) image datasets, which are all open-access for research purposes. Links to download these datasets are available in the paper, and they should be downloaded and merged with our images and labels to replicate the results of this project. Each image annotation follows its original naming convention, with an identifier added post-name to maintain consistency.
+<p align="justify"> This study utilizes three open-access image datasets for research purposes: the FLIR ADAS, $M{^3}FD$, and Powerline Image Dataset (PID). 
+To replicate the results of this project, please download these datasets and merge them with our provided images and labels. 
+Links for downloading the datasets are included in the paper. Each image annotation retains its original naming convention, 
+with an additional identifier appended to ensure consistency. 
 </p>
 
 ### Terms and Conditions
-* FLIR ADAS Dataset: Refer to the <a href="https://www.flir.com/oem/adas/adas-dataset-agree/" target="_blank">FLIR ADAS Terms of Use</a> for conditions on FLIR ADAS data usage.
-* PID: The <a href="https://data.mendeley.com/datasets/n6wrv4ry6v/8" target="_blank">Powerline Image Dataset terms</a>  apply to PID usage.
-* TarDAL ($M{^3}FD$) Dataset: Use of the $M{^3}FD$ dataset is subject to the <a href="https://github.com/JinyuanLiu-CV/TarDAL" target="_blank">TarDAL terms</a>.
-* Rest of the dataset (captured by ourselves, with DIC as acronym): Use of this dataset is subject under <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0 license terms</a>.
+* FLIR ADAS Dataset: Please refer to the <a href="https://www.flir.com/oem/adas/adas-dataset-agree/" target="_blank">FLIR ADAS Terms of Use</a> for conditions on using FLIR ADAS data.
+* Powerline Image Dataset (PID): The <a href="https://data.mendeley.com/datasets/n6wrv4ry6v/8" target="_blank">terms for using the Powerline Image Dataset</a> apply.
+* TarDAL ($M{^3}FD$) Dataset: Usage of the $M{^3}FD$ dataset is subject to the <a href="https://github.com/JinyuanLiu-CV/TarDAL" target="_blank">TarDAL terms</a>.
+* DIC Dataset: The dataset captured by our team (images acronym: DIC) is available under the <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0 license terms</a>.
+
 
 ## 💻 Materials
 <p align="justify">
