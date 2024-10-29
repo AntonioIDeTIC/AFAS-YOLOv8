@@ -34,7 +34,7 @@ Our proposed dataset is available via Mendeley data repository: <a href="https:/
 <p align="justify">
 The augmentation process carried out in this work was possible using <a href="https://docs.roboflow.com/datasets/image-augmentation" target="_blank">Roboflow augmentation tool</a>. 
 
-All functions developed for this project are organized in the code folder. Here’s a summary of key files:
+The methods developed for this project are organized in the code folder. Here’s a summary of key files:
 
 * utils.py: This script includes essential utility methods, such as the Intersection over Union (IoU) calculation and preprocessing routines.
 * segment_example.py: This example script demonstrates image segmentation. In the resulting segmentation, the color coding is as follows:
@@ -42,7 +42,6 @@ All functions developed for this project are organized in the code folder. Here�
     * Blue: Powerlines
     * Green: False Negatives
 </p>
-
 
 <p align="center" width="100%">
     <img width="100%" src="images/segment_example.svg"> 
