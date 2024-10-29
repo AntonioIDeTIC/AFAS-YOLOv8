@@ -4,7 +4,7 @@ This is the official repository of "Addressing false alarms from high-voltage st
 </p>
 
 <p align="justify"> 
-It should be noted that the FLIR, $M{^3}FD$, and PID images are open access and can be downloaded from the links provided in the paper. The annotations made respect the original name of these images, only an identifier has been added to each after the original name.
+It should be noted that the FLIR, $M{^3}FD$, and PID images are open access for research purposes and can be downloaded from the links provided in the paper. The annotations made respect the original name of these images, only an identifier has been added to each after the original name.
 </p>
 
 <p align="justify"> 
