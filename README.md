@@ -10,15 +10,13 @@ Note that you will need to <a href="https://docs.ultralytics.com/modes/train/" t
 ## 📂 Dataset Access and Usage
 
 <p align="justify"> 
-The datasets used in this work include the FLIR ADAS, $M{^3}FD$, and Powerline Image Dataset (PID) image datasets, which are all open-access for research purposes. Links to download these datasets are available in the paper, and they must be downloaded separately as required by the project. Each image annotation follows its original naming convention, with an identifier added post-name to maintain consistency.
+The datasets used in this work include the FLIR ADAS, $M{^3}FD$, and Powerline Image Dataset (PID) image datasets, which are all open-access for research purposes. Links to download these datasets are available in the paper, and they should be downloaded and merged with our proposed dataset to replicate the results of this project. Each image annotation follows its original naming convention, with an identifier added post-name to maintain consistency.
 </p>
 
 ### Terms and Conditions
 * FLIR ADAS Dataset: Refer to the <a href="https://www.flir.com/oem/adas/adas-dataset-agree/" target="_blank">FLIR ADAS Terms of Use</a> for conditions on FLIR ADAS data usage.
 * PID: The <a href="https://data.mendeley.com/datasets/n6wrv4ry6v/8" target="_blank">Powerline Image Dataset terms</a>  apply to PID usage.
 * TarDAL ($M{^3}FD$) Dataset: Use of the $M{^3}FD$ dataset is subject to the <a href="https://github.com/JinyuanLiu-CV/TarDAL" target="_blank">TarDAL terms</a>.
-
-
 
 ## 💻 Materials
 <p align="justify">
