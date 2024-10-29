@@ -25,7 +25,10 @@ with an additional identifier appended to ensure consistency.
 ## 💻 Materials
 <p align="justify">
 Our proposed dataset is available via Mendeley data repository: <a href="https://data.mendeley.com/datasets/rng8d63pk3/1" target="_blank">AFAS-YOLOv8</a>. Please ensure the "original_data" folder is located within this repository before running the provided examples. Most data is stored in 16-bit format; to use it for training, apply the "normalize" method in utils.py to convert it to 8-bit.
-We uploaded all images and labels of DIC dataset and only labels of the rest of the open-access datasets.
+</p>
+
+<p align="justify">
+We uploaded all images and labels of DIC dataset and only labels of the rest of the open-access datasets. Please refer to the original download links to get the respective images from each dataset.
 </p>
 
 ## 🔧 Dependencies and Installation 
