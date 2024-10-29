@@ -7,6 +7,10 @@ This is the official repository of "Addressing false alarms from high-voltage st
 It should be noted that the FLIR, $M{^3}FD$, and PID images are open access and can be downloaded from the links provided in the paper. The annotations made respect the original name of these images, only an identifier has been added to each after the original name.
 </p>
 
+<p align="justify"> 
+The original terms and conditions of the <a href="https://www.flir.com/oem/adas/adas-dataset-agree/" target="_blank">FLIR ADAS Terms of Use</a> apply to the FLIR ADAS dataset. 
+</p>
+
 ## 💻 Materials
 <p align="justify">
 Please visit our Mendeley data repository at <a href="https://data.mendeley.com/datasets/rng8d63pk3/1" target="_blank">AFAS-YOLOv8</a> to download the dataset discussed in our work. Take into account that the "original_data" folder must be inside this repository to run the examples we provided. 
