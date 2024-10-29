@@ -18,7 +18,7 @@ def load_global_variables():
     - image_files (list): List of image filenames.
     - current_index (int): Current index for image navigation.
     """
-    segment_model = YOLO(os.path.join('..', "model/model_186.pt"))
+    segment_model = YOLO(os.path.join('..', "model/model.pt"))
     image_dir = os.path.join('..', "original_data/valid/images/")
     label_dir = os.path.join('..', "original_data/valid/labels/")
     image_files = utils.get_list_images(image_dir, extension='.tiff')

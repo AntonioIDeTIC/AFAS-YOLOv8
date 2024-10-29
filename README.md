@@ -22,7 +22,7 @@ The original terms and conditions of the <a href="https://github.com/JinyuanLiu-
 
 ## 💻 Materials
 <p align="justify">
-Please visit our Mendeley data repository at <a href="https://data.mendeley.com/datasets/rng8d63pk3/1" target="_blank">AFAS-YOLOv8</a> to download the dataset discussed in our work. Take into account that the "original_data" folder must be inside this repository to run the examples we provided. The data is in its mayority 16bit format, use the "normalize" method inside utils.py to convert to 8bit data.
+Please visit our Mendeley data repository at <a href="https://data.mendeley.com/datasets/rng8d63pk3/1" target="_blank">AFAS-YOLOv8</a> to download the dataset discussed in our work. Take into account that the "original_data" folder must be inside this repository to run the examples we provided. The data is in its mayority 16bit format, use the "normalize" method inside utils.py to convert to 8bit data and train the model.
 </p>
 
 ## 🔧 Dependencies and Installation 
