@@ -1,28 +1,25 @@
 # AFAS-YOLOv8
  <p align="justify"> 
-This is the official repository of "Addressing false alarms from high-voltage structures in subpixel fire detection" (recently submitted). In this repository, you can find all the resources necessary to replicate our work. Please, take into account that you need to train a pretrained YOLOv8 model to test this code.
+Welcome to the official repository for "Addressing False Alarms from High-Voltage Structures in Subpixel Fire Detection" (currently under review). This repository contains all necessary resources to replicate the experiments presented in our study. Note that you will need to train a pre-trained YOLOv8 model to run this code effectively.
 </p>
 
-<p align="justify"> 
-It should be noted that the FLIR, $M{^3}FD$, and PID images are open access for research purposes and can be downloaded from the links provided in the paper. The annotations made respect the original name of these images, only an identifier has been added to each after the original name.
-</p>
+## 📂 Dataset Access and Usage
 
 <p align="justify"> 
-The original terms and conditions of the <a href="https://www.flir.com/oem/adas/adas-dataset-agree/" target="_blank">FLIR ADAS Terms of Use</a> apply to the FLIR ADAS dataset. 
+The datasets used in this work include the FLIR, $M{^3}FD$, and PID image datasets, which are all open-access for research purposes. Links to download these datasets are available in the paper, and they must be downloaded separately as required by the project. Each image annotation follows its original naming convention, with an identifier added post-name to maintain consistency.
 </p>
 
+### Terms and Conditions
 <p align="justify"> 
-The original terms and conditions of the <a href="https://data.mendeley.com/datasets/n6wrv4ry6v/8" target="_blank">Powerline Image Dataset </a> apply to the PID dataset. 
-</p>
-
-<p align="justify"> 
-The original terms and conditions of the <a href="https://github.com/JinyuanLiu-CV/TarDAL" target="_blank">TarDAL</a> apply to the $M{^3}FD$ dataset. 
+* FLIR ADAS Dataset: Refer to the <a href="https://www.flir.com/oem/adas/adas-dataset-agree/" target="_blank">FLIR ADAS Terms of Use</a> for conditions on FLIR ADAS data usage.
+* Powerline Image Dataset (PID): The <a href="https://data.mendeley.com/datasets/n6wrv4ry6v/8" target="_blank">Powerline Image Dataset terms</a>  apply to PID usage.
+* TarDAL ($M{^3}FD$) Dataset: Use of the $M{^3}FD$ dataset is subject to the <a href="https://github.com/JinyuanLiu-CV/TarDAL" target="_blank">TarDAL terms</a> .
 </p>
 
 
 ## 💻 Materials
 <p align="justify">
-Please visit our Mendeley data repository at <a href="https://data.mendeley.com/datasets/rng8d63pk3/1" target="_blank">AFAS-YOLOv8</a> to download the dataset discussed in our work. Take into account that the "original_data" folder must be inside this repository to run the examples we provided. The data is in its mayority 16bit format, use the "normalize" method inside utils.py to convert to 8bit data and train the model.
+POur primary dataset is available via our Mendeley data repository: <a href="https://data.mendeley.com/datasets/rng8d63pk3/1" target="_blank">AFAS-YOLOv8</a>. Please ensure the "original_data" folder is located within this repository before running the provided examples. Most data is stored in 16-bit format; to use it for training, apply the "normalize" method in utils.py to convert it to 8-bit.
 </p>
 
 ## 🔧 Dependencies and Installation 
@@ -32,14 +29,17 @@ Please visit our Mendeley data repository at <a href="https://data.mendeley.com/
 * matplotlib == 3.7.2
 * ultralytics == 8.0.213
   
-## 🚀 Code
+## 🚀 Code Overview
 <p align="justify">
-The functions developed in this work can be found in the code folder. The utils.py file implements basic methods such as the IoU calculation used in this work, as well as the preprocessing routine. 
+All functions developed for this project are organized in the code folder. Here’s a summary of key files:
+
+* utils.py: This script includes essential utility methods, such as the Intersection over Union (IoU) calculation and preprocessing routines.
+* segment_example.py: This example script demonstrates image segmentation. In the resulting segmentation, the color coding is as follows:
+* * Red: Towers
+* * Blue: Powerlines
+* * Green: False Negatives
 </p>
 
-<p align="justify">
-The segment_example.py file shows an example of image segmentation. The result shows with a red color the class corresponding to towers, with a blue color the powerlines, and with a green color the false negatives.
-</p>
 
 <p align="center" width="100%">
     <img width="100%" src="images/segment_example.svg"> 
