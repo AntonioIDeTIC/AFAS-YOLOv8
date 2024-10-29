@@ -11,6 +11,15 @@ It should be noted that the FLIR, $M{^3}FD$, and PID images are open access and 
 The original terms and conditions of the <a href="https://www.flir.com/oem/adas/adas-dataset-agree/" target="_blank">FLIR ADAS Terms of Use</a> apply to the FLIR ADAS dataset. 
 </p>
 
+<p align="justify"> 
+The original terms and conditions of the <a href="https://data.mendeley.com/datasets/n6wrv4ry6v/8" target="_blank">Powerline Image Dataset </a> apply to the PID dataset. 
+</p>
+
+<p align="justify"> 
+The original terms and conditions of the <a href="https://github.com/JinyuanLiu-CV/TarDAL" target="_blank">TarDAL</a> apply to the $M{^3}FD$ dataset. 
+</p>
+
+
 ## 💻 Materials
 <p align="justify">
 Please visit our Mendeley data repository at <a href="https://data.mendeley.com/datasets/rng8d63pk3/1" target="_blank">AFAS-YOLOv8</a> to download the dataset discussed in our work. Take into account that the "original_data" folder must be inside this repository to run the examples we provided. 
