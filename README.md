@@ -18,7 +18,7 @@ References for downloading and citing the datasets can be found in the paper. Al
 * FLIR ADAS Dataset: Please refer to the <a href="https://www.flir.com/oem/adas/adas-dataset-agree/" target="_blank">FLIR ADAS Terms of Use</a> for conditions on using FLIR ADAS data.
 * Powerline Image Dataset (PID): The <a href="https://data.mendeley.com/datasets/n6wrv4ry6v/8" target="_blank">Powerline Image Dataset Terms of Use</a> apply for this images and labels.
 * TarDAL ($M{^3}FD$) Dataset: Usage of the $M{^3}FD$ dataset is subject to the <a href="https://github.com/JinyuanLiu-CV/TarDAL" target="_blank">TarDAL Terms of Use</a>.
-* DIC Dataset: The dataset captured by our team (images acronym: DIC) is available under the <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0 license terms</a>.
+* DIC Dataset: The dataset captured by our team (images acronym: DIC) is available under the <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0 license Terms of Use</a>.
 
 
 ## 💻 Materials
