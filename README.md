@@ -10,8 +10,8 @@ Note that you will need to <a href="https://docs.ultralytics.com/modes/train/" t
 ## 📂 Dataset Access and Usage
 
 <p align="justify"> This study utilizes three open-access image datasets for research purposes: the FLIR ADAS, TarDAL $M{^3}FD$, and Powerline Image Dataset (PID). 
-To replicate the results of this project, please download these datasets and merge them with our provided images and labels. 
-References for downloading and citing the datasets can be found in the paper. All image annotation made by this research team retains their original naming convention with an additional identifier appended to ensure consistency.
+To replicate this project's results, please download these datasets and merge them with our provided images and labels. 
+References for downloading and citing the datasets can be found in the paper. All image annotation this research team makes retains their original naming convention with an additional identifier appended to ensure consistency.
 </p>
 
 ### Terms and Conditions
