@@ -22,7 +22,7 @@ References for downloading and citing the datasets can be found in the paper. Al
 
 
 ## 💻 Materials
-<p align="justify"> Our proposed dataset is available in the Mendeley data repository: <a href="https://data.mendeley.com/datasets/rng8d63pk3/1" target="_blank">AFAS-YOLOv8</a>. 
+<p align="justify"> Our proposed dataset is available in the Mendeley data repository: <a href="https://data.mendeley.com/datasets/rng8d63pk3/2" target="_blank">AFAS-YOLOv8</a>. 
 Before running the provided examples, ensure that the "original_data" folder is included within this repository. Most of the data is stored in 16-bit format. 
 To prepare it for training, please use the "normalize" method in <code>utils.py</code> to convert the data to an 8-bit format. 
 </p> 
