@@ -44,8 +44,8 @@ The augmentation process carried out in this work was possible using <a href="ht
 
 The methods developed for this project are organized in the code folder. Here’s a summary of key files:
 
-* utils.py: This script includes essential utility methods, such as the Intersection over Union (IoU) calculation and preprocessing routines.
-* segment_example.py: This example script demonstrates image segmentation. In the resulting segmentation, the color coding is as follows:
+* <code>utils.py</code>: This script includes essential utility methods, such as the Intersection over Union (IoU) calculation and preprocessing routines.
+* <code>segment_example.py</code>: This example script demonstrates image segmentation. In the resulting segmentation, the color coding is as follows:
     * Red: Towers
     * Blue: Powerlines
     * Green: False Negatives
