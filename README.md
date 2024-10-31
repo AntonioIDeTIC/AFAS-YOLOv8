@@ -9,15 +9,15 @@ Note that you will need to <a href="https://docs.ultralytics.com/modes/train/" t
 
 ## 📂 Dataset Access and Usage
 
-<p align="justify"> This study utilizes three open-access image datasets for research purposes: the FLIR ADAS, TarDAL $M{^3}FD$, and Powerline Image Dataset (PID). 
-To replicate this project's results, please download these datasets and merge them with our provided images and labels. 
-References for downloading and citing the datasets can be found in the paper. All image annotation this research team makes retains their original naming convention with an additional identifier appended to ensure consistency.
+<p align="justify"> This study utilizes three open-access image datasets for research purposes: the FLIR ADAS, TarDAL M3FD, and Powerline Image Dataset (PID). 
+To replicate this project's results, please download these datasets and merge them with the images and labels we provided. 
+The paper provides references for downloading and citing the datasets. This research team's image annotations retain their original naming convention, with an additional identifier appended to ensure consistency.
 </p>
 
 ### Terms and Conditions
 * FLIR ADAS Dataset: Please refer to the <a href="https://www.flir.com/oem/adas/adas-dataset-agree/" target="_blank">FLIR ADAS Terms of Use</a> for conditions on using FLIR ADAS data.
 * Powerline Image Dataset (PID): The <a href="https://data.mendeley.com/datasets/n6wrv4ry6v/8" target="_blank">Powerline Image Dataset Terms of Use</a> apply for this images and labels.
-* TarDAL ($M{^3}FD$) Dataset: Usage of the $M{^3}FD$ dataset is subject to the <a href="https://github.com/JinyuanLiu-CV/TarDAL" target="_blank">TarDAL Terms of Use</a>.
+* TarDAL M3FD Dataset: Usage of the M3FD dataset is subject to the <a href="https://github.com/JinyuanLiu-CV/TarDAL" target="_blank">TarDAL Terms of Use</a>.
 * DIC Dataset: The dataset captured by our team (images acronym: DIC) is available under the <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0 license Terms of Use</a>.
 
 
@@ -28,7 +28,7 @@ To prepare it for training, please use the "normalize" method in <code>utils.py<
 </p> 
 
 <p align="justify"> We have uploaded all images and labels for the DIC dataset, while only the labels for the other open-access datasets are included. 
-To obtain the respective images for these datasets, please refer to the original download links. 
+Please refer to the original download links to obtain the respective images for these datasets. 
 </p>
 
 ## 🔧 Dependencies and Installation 
