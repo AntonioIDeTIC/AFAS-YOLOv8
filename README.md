@@ -49,6 +49,8 @@ The methods developed for this project are organized in the code folder. Here’
     * Red: Towers
     * Blue: Powerlines
     * Green: False Negatives
+* <code>SubpixelFireGeneration.py</code>: Utility class to generate the synthetic fire.
+* <code>replicate_synth_AFAS.py.py</code>: Use this script to generate the synthetic AFAS dataset.
 </p>
 
 <p align="center" width="100%">
