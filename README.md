@@ -58,11 +58,18 @@ The methods developed for this project are organized in the code folder. Here’
 </p>
 
 ##  BibTeX
-<!-- @InProceedings{aa,
-    author    = {aa},
-    title     = {aa},
-    date      = {2024}
-} -->
+@article{GALVANHERNANDEZ2025111324,
+title = {Addressing false alarms from high-voltage structures in subpixel fire detection},
+journal = {Engineering Applications of Artificial Intelligence},
+volume = {158},
+pages = {111324},
+year = {2025},
+issn = {0952-1976},
+doi = {https://doi.org/10.1016/j.engappai.2025.111324},
+url = {https://www.sciencedirect.com/science/article/pii/S0952197625013260},
+author = {Antonio Galván-Hernández and Víctor Araña-Pulido and Francisco Cabrera-Almeida and Pedro Quintana-Morales},
+keywords = {False alarm, High-voltage structure, Subpixel fire, Thermal image, You only look once}
+}
 
 ## 📜 License
 This project is released under the AGPL-3.0 license.
