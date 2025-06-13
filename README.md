@@ -82,7 +82,7 @@ The methods developed for this project are organized in the code folder. Here’
   keywords= {False alarm, High-voltage structure, Subpixel fire, Thermal image, You only look once}
 }
 
- </details> ``` 
+ </details> </details> ```
 
 ## 📜 License
 This project is released under the AGPL-3.0 license.
