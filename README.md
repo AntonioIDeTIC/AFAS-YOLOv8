@@ -68,7 +68,7 @@ The methods developed for this project are organized in the code folder. Here’
 <details>
 <summary>BibTeX</summary>
 
-```bibtex
+bibtex
 @article{GALVANHERNANDEZ2025111324,
   title   = {Addressing false alarms from high-voltage structures in subpixel fire detection},
   author  = {Galván-Hernández, Antonio and Araña-Pulido, Víctor and Cabrera-Almeida, Francisco and Quintana-Morales, Pedro},
