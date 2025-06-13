@@ -57,19 +57,31 @@ The methods developed for this project are organized in the code folder. Here’
     <img width="100%" src="images/segment_example.svg"> 
 </p>
 
-##  BibTeX
+## Citation
+
+> **Galván-Hernández, A.**, Araña-Pulido, V., Cabrera-Almeida, F., & Quintana-Morales, P. (2025).  
+> Addressing false alarms from high-voltage structures in subpixel fire detection. *Engineering Applications of Artificial Intelligence*, 158, 111324.  
+> [https://doi.org/10.1016/j.engappai.2025.111324](https://doi.org/10.1016/j.engappai.2025.111324)
+
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.engappai.2025.111324-blue)](https://doi.org/10.1016/j.engappai.2025.111324)
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
 @article{GALVANHERNANDEZ2025111324,
-title = {Addressing false alarms from high-voltage structures in subpixel fire detection},
-journal = {Engineering Applications of Artificial Intelligence},
-volume = {158},
-pages = {111324},
-year = {2025},
-issn = {0952-1976},
-doi = {https://doi.org/10.1016/j.engappai.2025.111324},
-url = {https://www.sciencedirect.com/science/article/pii/S0952197625013260},
-author = {Antonio Galván-Hernández and Víctor Araña-Pulido and Francisco Cabrera-Almeida and Pedro Quintana-Morales},
-keywords = {False alarm, High-voltage structure, Subpixel fire, Thermal image, You only look once}
+  title   = {Addressing false alarms from high-voltage structures in subpixel fire detection},
+  author  = {Galván-Hernández, Antonio and Araña-Pulido, Víctor and Cabrera-Almeida, Francisco and Quintana-Morales, Pedro},
+  journal = {Engineering Applications of Artificial Intelligence},
+  volume  = {158},
+  pages   = {111324},
+  year    = {2025},
+  issn    = {0952-1976},
+  doi     = {10.1016/j.engappai.2025.111324},
+  url     = {https://www.sciencedirect.com/science/article/pii/S0952197625013260},
+  keywords= {False alarm, High-voltage structure, Subpixel fire, Thermal image, You only look once}
 }
+
 
 ## 📜 License
 This project is released under the AGPL-3.0 license.
