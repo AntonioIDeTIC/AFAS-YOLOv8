@@ -65,7 +65,7 @@ If you have any questions, please email antonio.galvan@ulpgc.es.
 
 ## Citation
 
-> Galván-Hernández, A., Araña-Pulido, V., Cabrera-Almeida, F., & Quintana-Morales, P. (2025).  
+> Antonio Galván-Hernández, Víctor Araña-Pulido, Francisco Cabrera-Almeida, Pedro Quintana-Morales (2025).  
 > Addressing false alarms from high-voltage structures in subpixel fire detection. *Engineering Applications of Artificial Intelligence*, 158, 111324.  
 > [https://doi.org/10.1016/j.engappai.2025.111324](https://doi.org/10.1016/j.engappai.2025.111324)
 
@@ -77,7 +77,7 @@ If you have any questions, please email antonio.galvan@ulpgc.es.
 ```bibtex
 @article{GALVANHERNANDEZ2025111324,
   title   = {Addressing false alarms from high-voltage structures in subpixel fire detection},
-  author  = {Galván-Hernández, Antonio and Araña-Pulido, Víctor and Cabrera-Almeida, Francisco and Quintana-Morales, Pedro},
+  author = {Antonio Galván-Hernández and Víctor Araña-Pulido and Francisco Cabrera-Almeida and Pedro Quintana-Morales},
   journal = {Engineering Applications of Artificial Intelligence},
   volume  = {158},
   pages   = {111324},
