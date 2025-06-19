@@ -88,5 +88,4 @@ If you have any questions, please email antonio.galvan@ulpgc.es.
   keywords= {False alarm, High-voltage structure, Subpixel fire, Thermal image, You only look once}
 }
 
-</details>
 
