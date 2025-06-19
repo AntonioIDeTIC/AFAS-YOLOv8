@@ -87,5 +87,6 @@ If you have any questions, please email antonio.galvan@ulpgc.es.
   url     = {https://www.sciencedirect.com/science/article/pii/S0952197625013260},
   keywords= {False alarm, High-voltage structure, Subpixel fire, Thermal image, You only look once}
 }
+´´´
 </details>
 
