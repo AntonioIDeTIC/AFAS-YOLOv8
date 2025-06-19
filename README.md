@@ -77,7 +77,7 @@ If you have any questions, please email antonio.galvan@ulpgc.es.
 ```bibtex
 @article{GALVANHERNANDEZ2025111324,
   title   = {Addressing false alarms from high-voltage structures in subpixel fire detection},
-  author = {Antonio Galván-Hernández and Víctor Araña-Pulido and Francisco Cabrera-Almeida and Pedro Quintana-Morales},
+  author  = {Antonio Galván-Hernández and Víctor Araña-Pulido and Francisco Cabrera-Almeida and Pedro Quintana-Morales},
   journal = {Engineering Applications of Artificial Intelligence},
   volume  = {158},
   pages   = {111324},
@@ -87,5 +87,5 @@ If you have any questions, please email antonio.galvan@ulpgc.es.
   url     = {https://www.sciencedirect.com/science/article/pii/S0952197625013260},
   keywords= {False alarm, High-voltage structure, Subpixel fire, Thermal image, You only look once}
 }
-</details>´´´
+</details>
 
